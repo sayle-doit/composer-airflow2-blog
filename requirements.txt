@@ -1,0 +1,2 @@
+apache-airflow>=2.0.1
+apache-airflow-providers-google>=4.0.0
