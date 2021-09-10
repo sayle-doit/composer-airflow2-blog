@@ -1,6 +1,6 @@
 # Sayle's Composer Airflow 2.0 Medium Article Code
 
-This is the codebase to be used with the Medium article located at: <Final URL goes here>
+This is the codebase to be used with the Medium article located at: https://blog.doit-intl.com/running-containers-on-cloud-composer-with-airflow-2-0-23cd86615969
 
 It contains 2 DAGs that will run a Docker container.
 
